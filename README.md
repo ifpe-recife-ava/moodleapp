@@ -9,6 +9,14 @@ This is the primary repository of source code for the official Moodle Mobile app
 * [Bug Tracker](https://tracker.moodle.org/browse/MOBILE)
 * [Release Notes](http://docs.moodle.org/dev/Moodle_Mobile_Release_Notes)
 
+Android APK
+=================
+cordova build android --device
+
+IOS
+=================
+native-run ios --app platforms/ios/build/device/IFPE.ipa --device --verbose
+
 License
 -------
 
